@@ -1,6 +1,7 @@
 # Prueba
+Crear la base de datos en postgreSQL-> el codigo esta en el scrip de sql
 
-En este repositorio es necesario instalr previamente Nodejs en el ordenador, ademas de instalar dentro del proyecto la siguiente:
+En este repositorio es necesario instalar previamente Nodejs en el ordenador, ademas de instalar dentro del proyecto lo siguiente:
 
 Nodemon para reiniciar automaticamente el servidor
 
